@@ -1,0 +1,47 @@
+[Header] 开始日志记录 
+INFO  2015-09-09 13:37:19,909 66556ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：454 封邮件
+INFO  2015-09-09 13:37:19,994 66641ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1670315322@.qq.com
+INFO  2015-09-09 13:37:20,004 66651ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|984607356@.qq.com
+INFO  2015-09-09 13:37:20,004 66651ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|115525813@.com
+INFO  2015-09-09 13:37:20,058 66705ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1227642840@qq com
+INFO  2015-09-09 13:37:20,134 66781ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|0
+INFO  2015-09-09 13:37:20,168 66815ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1148054806qq@.com
+INFO  2015-09-09 13:37:20,176 66823ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|370454742qq.com
+INFO  2015-09-09 13:37:20,191 66838ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|liuyuwei_@hotmail.com
+INFO  2015-09-09 13:37:20,249 66896ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1042563990qq@.com
+INFO  2015-09-09 13:37:20,252 66899ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|357855131. qq.com
+INFO  2015-09-09 13:37:20,263 66910ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 13:40:08,142 234789ms EMailSend              smtp_SendCompleted - 邮件发送成功444,失败0,邮箱地址错误10
+[Footer] 结束日志记录 
+[Header] 开始日志记录 
+INFO  2015-09-09 15:03:27,888 191443ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：1 封邮件
+INFO  2015-09-09 15:03:29,944 193499ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 15:03:30,973 194528ms EMailSend              smtp_SendCompleted - 邮件发送成功1,失败0,邮箱地址错误0
+INFO  2015-09-09 15:04:23,812 247367ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：1 封邮件
+INFO  2015-09-09 15:04:25,813 249368ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 15:04:25,814 249369ms EMailSend              smtp_SendCompleted - 邮件发送成功1,失败0,邮箱地址错误0
+INFO  2015-09-09 15:05:38,428 321983ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：1 封邮件
+INFO  2015-09-09 15:05:40,430 323985ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 15:05:40,430 323985ms EMailSend              smtp_SendCompleted - 邮件发送成功1,失败0,邮箱地址错误0
+INFO  2015-09-09 15:08:31,929 495484ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：454 封邮件
+INFO  2015-09-09 15:13:26,095 789650ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|chunyumuri@hotmail. com
+INFO  2015-09-09 15:14:47,103 870658ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|hualrr126.com
+INFO  2015-09-09 15:20:23,565 1207120ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|amy8885@qq·com
+INFO  2015-09-09 15:21:23,849 1267404ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|532143253@qq，com
+INFO  2015-09-09 15:21:25,865 1269420ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|645160045qq.com
+INFO  2015-09-09 15:21:31,928 1275483ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|471277596@qq. com
+INFO  2015-09-09 15:22:00,091 1303646ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|207788724@.qq.com
+INFO  2015-09-09 15:22:30,250 1333805ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|870289287qq.com
+INFO  2015-09-09 15:22:34,303 1337858ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1065656962.qq.com
+INFO  2015-09-09 15:23:38,701 1402256ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 15:23:38,748 1402303ms EMailSend              smtp_SendCompleted - 邮件发送成功445,失败0,邮箱地址错误9
+[Header] 开始日志记录 
+INFO  2015-09-09 15:29:23,938 74219ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：404 封邮件
+INFO  2015-09-09 15:34:34,518 384799ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|chunyumuri@hotmail. com
+INFO  2015-09-09 15:35:55,294 465574ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|hualrr126.com
+INFO  2015-09-09 15:41:31,408 801688ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|amy8885@qq·com
+INFO  2015-09-09 15:42:31,858 862138ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|532143253@qq，com
+INFO  2015-09-09 15:42:33,875 864155ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|645160045qq.com
+INFO  2015-09-09 15:42:39,906 870186ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|471277596@qq. com
+INFO  2015-09-09 15:43:12,065 902345ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-09 15:43:19,389 909670ms EMailSend              smtp_SendCompleted - 邮件发送成功398,失败0,邮箱地址错误6

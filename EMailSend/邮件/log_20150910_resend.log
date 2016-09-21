@@ -1,0 +1,62 @@
+[Header] 开始日志记录 
+INFO  2015-09-10 15:28:41,096 398345ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：473 封邮件
+INFO  2015-09-10 15:38:17,083 974332ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 15:45:50,297 1427546ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 15:52:30,207 1827456ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 15:52:30,217 1827466ms EMailSend              smtp_SendCompleted - 邮箱4476660659@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,230 1827479ms EMailSend              smtp_SendCompleted - 邮箱22868653@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to write data to the transport connection: 远程主机强迫关闭了一个现有的连接。. ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Mime.MimeBasePart.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.Message.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.SmtpClient.SendMessageCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 15:52:30,236 1827485ms EMailSend              smtp_SendCompleted - 邮箱12500565@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,244 1827493ms EMailSend              smtp_SendCompleted - 邮箱76@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,249 1827498ms EMailSend              smtp_SendCompleted - 邮箱514337089@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,253 1827502ms EMailSend              smtp_SendCompleted - 邮箱zhang_yu??wei0412@foxmail.com发送失败,原因:System.Net.Mail.SmtpException: Syntax error in parameters or arguments. The server response was: Bad address syntax
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,255 1827504ms EMailSend              smtp_SendCompleted - 邮箱175444447@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,256 1827505ms EMailSend              smtp_SendCompleted - 邮箱327274596@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,257 1827506ms EMailSend              smtp_SendCompleted - 邮箱55247430@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,266 1827515ms EMailSend              smtp_SendCompleted - 邮箱523565241@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,272 1827521ms EMailSend              smtp_SendCompleted - 邮箱luoyanni2014@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,274 1827523ms EMailSend              smtp_SendCompleted - 邮箱15520478802@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,276 1827525ms EMailSend              smtp_SendCompleted - 邮箱wu-zone@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:30,278 1827527ms EMailSend              smtp_SendCompleted - 邮箱27015317@qq.com发送失败,原因:System.Net.Mail.SmtpFailedRecipientException: Mailbox unavailable. The server response was: Mailbox not found or access denied
+   at System.Net.Mail.SendMailAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpTransport.EndSendMail(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.SendMailCallback(IAsyncResult result)
+INFO  2015-09-10 15:52:36,547 1833796ms EMailSend              smtp_SendCompleted - 邮件发送成功457,失败14,邮箱地址错误0
+[Footer] 结束日志记录 

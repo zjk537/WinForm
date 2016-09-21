@@ -1,0 +1,13 @@
+[Header] 开始日志记录 
+INFO  2015-09-08 15:38:28,079 22354ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：403 封邮件
+INFO  2015-09-08 15:38:28,222 22497ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|23471365qq.com
+INFO  2015-09-08 15:38:28,325 22600ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|1759542191.qq.com
+INFO  2015-09-08 15:38:28,340 22615ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|1071630810qq.com
+INFO  2015-09-08 15:38:28,344 22619ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|413993914qq@.com
+INFO  2015-09-08 15:38:28,358 22633ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|692587101@com.
+INFO  2015-09-08 15:38:28,370 22645ms EMailSend              GetMailMessage     - 邮箱地址错误：CBNWeek|408479382@.com
+INFO  2015-09-08 15:38:28,397 22672ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-08 15:49:05,627 659901ms EMailSend              smtp_SendCompleted - 邮箱zyh_forthedream@qq.com发送失败,原因: Mailbox unavailable. The server response was: Mailbox not found or access denied  
+INFO  2015-09-08 15:49:57,008 711282ms EMailSend              smtp_SendCompleted - 邮箱ttjl2001@sina.com发送失败,原因: The server returned an invalid response to the EHLO command.
+INFO  2015-09-08 15:52:10,346 844621ms EMailSend              smtp_SendCompleted - 邮箱769012863@qq.com发送失败,原因: The server returned an invalid response to the EHLO command.
+INFO  2015-09-08 15:55:41,317 1055591ms EMailSend              smtp_SendCompleted - 邮箱katsuchan@163.com发送失败,原因: The server returned an invalid response to the EHLO command.

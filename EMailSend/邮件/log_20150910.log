@@ -1,0 +1,335 @@
+[Header] 开始日志记录 
+INFO  2015-09-10 09:51:45,284 37241ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：451 封邮件
+INFO  2015-09-10 09:52:03,375 55332ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|45016905@qq. com
+INFO  2015-09-10 09:52:33,521 85478ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|272941472qq.com
+INFO  2015-09-10 09:57:10,982 362939ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|58481220@qq．com
+INFO  2015-09-10 09:57:17,006 368963ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|27015317@qq. com
+INFO  2015-09-10 10:00:45,847 577805ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1150097797@.com
+INFO  2015-09-10 10:00:48,888 580845ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1003783676@qq.C0m
+INFO  2015-09-10 10:09:35,913 1107870ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|395467684qq.vip.com
+INFO  2015-09-10 10:11:20,964 1212921ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1946727245@qq. com
+INFO  2015-09-10 10:11:59,980 1251937ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 10:13:48,027 1359984ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|hhhbbbiou_@163.com
+INFO  2015-09-10 10:14:00,033 1371990ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 10:14:00,056 1372013ms EMailSend              smtp_SendCompleted - 邮箱Gengwei108@163.com发送失败,原因:System.Net.Mail.SmtpException: The server committed a protocol violation The server response was: 
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 10:14:00,057 1372014ms EMailSend              smtp_SendCompleted - 邮箱wuwill@vip.qq.com发送失败,原因:System.Net.Mail.SmtpException: The server committed a protocol violation The server response was: 
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 10:14:00,064 1372021ms EMailSend              smtp_SendCompleted - 邮箱83782403@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,065 1372022ms EMailSend              smtp_SendCompleted - 邮箱360748330@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Authentication failed because the remote party has closed the transport stream.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,065 1372022ms EMailSend              smtp_SendCompleted - 邮箱mituxiaozi@qq.com发送失败,原因:System.Net.Mail.SmtpException: The server committed a protocol violation The server response was: 
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 10:14:00,065 1372022ms EMailSend              smtp_SendCompleted - 邮箱riketu2012@yahoo.co.jp发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,065 1372022ms EMailSend              smtp_SendCompleted - 邮箱liubowen@hotmail.com发送失败,原因:System.Net.Mail.SmtpException: The server committed a protocol violation The server response was: 
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 10:14:00,066 1372023ms EMailSend              smtp_SendCompleted - 邮箱yuexiaowenying@163.com发送失败,原因:System.Net.Mail.SmtpException: The server returned an invalid response to the EHLO command.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+INFO  2015-09-10 10:14:00,066 1372023ms EMailSend              smtp_SendCompleted - 邮箱sword-333680@163.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,073 1372030ms EMailSend              smtp_SendCompleted - 邮箱160923770@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 123.125.50.212:25
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,073 1372030ms EMailSend              smtp_SendCompleted - 邮箱amighhe@gmail.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:14:00,073 1372030ms EMailSend              smtp_SendCompleted - 邮箱83966853@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 10:15:20,627 1452584ms EMailSend              smtp_SendCompleted - 邮箱52471249@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.Net.WebException: The operation has timed out.
+   at System.Net.Mail.SmtpConnection.ConnectAndHandshakeAsyncResult.End(IAsyncResult result)
+   at System.Net.Mail.SmtpClient.ConnectCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+[Footer] 结束日志记录 
+[Header] 开始日志记录 
+[Footer] 结束日志记录 
+[Header] 开始日志记录 
+INFO  2015-09-10 10:44:00,330  9089ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：451 封邮件
+[Header] 开始日志记录 
+INFO  2015-09-10 10:45:11,912 15279ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：451 封邮件
+[Header] 开始日志记录 
+INFO  2015-09-10 10:46:06,083 24821ms EMailSend              btnSend_Click      - 开始发送CBNWeek邮件，合计：451 封邮件
+INFO  2015-09-10 10:54:30,619 529357ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|395467684qq.vip.com
+INFO  2015-09-10 10:56:16,480 635218ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|1946727245@qq. com
+INFO  2015-09-10 10:56:55,603 674341ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 10:58:43,924 782662ms EMailSend              SendMail           - 邮箱地址错误：CBNWeek|hhhbbbiou_@163.com
+INFO  2015-09-10 10:58:55,988 794726ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+[Header] 开始日志记录 
+[Footer] 结束日志记录 
+[Header] 开始日志记录 
+INFO  2015-09-10 12:34:53,942 49019ms EMailSend              btnSend_Click      - 开始发送DianDao邮件，合计：454 封邮件
+INFO  2015-09-10 12:35:31,310 86386ms EMailSend              SendMail           - 邮箱地址错误：DianDao|1845182930@.com
+INFO  2015-09-10 12:40:19,365 374442ms EMailSend              SendMail           - 邮箱地址错误：DianDao|ayangshu163.com
+INFO  2015-09-10 12:41:16,568 431645ms EMailSend              SendMail           - 邮箱地址错误：DianDao|464264699qq.com
+INFO  2015-09-10 12:42:17,432 492509ms EMailSend              SendMail           - 邮箱地址错误：DianDao|1765998102 qq
+INFO  2015-09-10 12:42:44,995 520072ms EMailSend              SendMail           - 邮箱地址错误：DianDao|Xavier-11
+INFO  2015-09-10 12:43:09,126 544203ms EMailSend              SendMail           - 邮箱地址错误：DianDao|tuwencong@
+INFO  2015-09-10 12:43:33,651 568728ms EMailSend              SendMail           - 邮箱地址错误：DianDao|770573877qq.com
+INFO  2015-09-10 12:47:39,891 814968ms EMailSend              SendMail           - 邮箱地址错误：DianDao|2423496443qq.com
+INFO  2015-09-10 12:55:22,827 1277904ms EMailSend              SendMail           - 邮箱地址错误：DianDao|QQ2419836802
+INFO  2015-09-10 12:56:38,087 1353164ms EMailSend              SendMail           - 邮箱地址错误：DianDao|315880925qq.com
+INFO  2015-09-10 12:57:26,267 1401344ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 12:57:26,294 1401371ms EMailSend              smtp_SendCompleted - 邮箱785707295@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to write data to the transport connection: 远程主机强迫关闭了一个现有的连接。. ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Mime.MimeBasePart.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.Message.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.SmtpClient.SendMessageCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 12:57:26,296 1401373ms EMailSend              smtp_SendCompleted - 邮箱179132185@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to write data to the transport connection: 远程主机强迫关闭了一个现有的连接。. ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Mime.MimeBasePart.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.Message.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.SmtpClient.SendMessageCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 12:57:26,297 1401374ms EMailSend              smtp_SendCompleted - 邮箱596359951@qq.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to write data to the transport connection: 远程主机强迫关闭了一个现有的连接。. ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Mime.MimeBasePart.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.Message.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.SmtpClient.SendMessageCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 12:57:26,302 1401379ms EMailSend              smtp_SendCompleted - 邮箱420732086@QQ.com发送失败,原因:System.Net.Mail.SmtpException: Failure sending mail. ---> System.IO.IOException: Unable to write data to the transport connection: 您的主机中的软件中止了一个已建立的连接。. ---> System.Net.Sockets.SocketException: 您的主机中的软件中止了一个已建立的连接。
+   at System.Net.Sockets.Socket.EndSend(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndWrite(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Mime.MimeBasePart.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.Message.EndSend(IAsyncResult asyncResult)
+   at System.Net.Mail.SmtpClient.SendMessageCallback(IAsyncResult result)
+   --- End of inner exception stack trace ---
+INFO  2015-09-10 12:57:26,311 1401388ms EMailSend              smtp_SendCompleted - 邮件发送成功440,失败4,邮箱地址错误10
+INFO  2015-09-10 12:59:04,918 1499995ms EMailSend              btnSend_Click      - 开始发送ENJOY邮件，合计：402 封邮件
+INFO  2015-09-10 13:03:21,272 1756349ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|522379558
+INFO  2015-09-10 13:05:09,698 1864775ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|852982684@qq. com
+INFO  2015-09-10 13:05:24,756 1879833ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|1598349576qq.com
+INFO  2015-09-10 13:06:55,267 1970344ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|qq774354625.com
+INFO  2015-09-10 13:10:03,879 2158956ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|39595438@qq。com
+INFO  2015-09-10 13:10:18,921 2173998ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|479523595@cn
+INFO  2015-09-10 13:10:42,999 2198076ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|1633261609.con
+INFO  2015-09-10 13:12:13,580 2288656ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|495999151qq.com.cn
+INFO  2015-09-10 13:17:47,679 2622756ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|65982401qq.com
+INFO  2015-09-10 13:18:51,361 2686438ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 13:18:51,399 2686476ms EMailSend              smtp_SendCompleted - 邮件发送成功393,失败0,邮箱地址错误9
+INFO  2015-09-10 13:54:30,098 4825174ms EMailSend              btnSend_Click      - 开始发送DianDao邮件，合计：158 封邮件
+INFO  2015-09-10 13:54:57,176 4852253ms EMailSend              SendMail           - 邮箱地址错误：DianDao|44020959qq.com
+INFO  2015-09-10 13:57:14,517 4989594ms EMailSend              SendMail           - 邮箱地址错误：DianDao|123456.@qq.com
+INFO  2015-09-10 13:58:00,145 5035221ms EMailSend              SendMail           - 邮箱地址错误：DianDao|1322880915qq.com
+INFO  2015-09-10 13:58:15,204 5050280ms EMailSend              SendMail           - 邮箱地址错误：DianDao|316433863.qq.com
+INFO  2015-09-10 13:58:18,207 5053284ms EMailSend              SendMail           - 邮箱地址错误：DianDao|415747958@ qq.com
+INFO  2015-09-10 13:58:18,209 5053286ms EMailSend              SendMail           - 邮箱地址错误：DianDao|qq @344294003.com
+INFO  2015-09-10 14:00:52,725 5207801ms EMailSend              SendMail           - 邮箱地址错误：DianDao|1367175983@.com
+INFO  2015-09-10 14:01:04,799 5219876ms EMailSend              SendMail           - 邮箱地址错误：DianDao|qq601715246.com
+INFO  2015-09-10 14:01:07,821 5222898ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 14:02:02,527 5277603ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 14:02:02,544 5277620ms EMailSend              smtp_SendCompleted - 邮箱1134730132@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEBJZkL4G_FVQf+bBQ--.15S3 1441864697 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864697
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,545 5277621ms EMailSend              smtp_SendCompleted - 邮箱zw0706@126.com.cn发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEAJ90IEHPFV4P+bBQ--.132S3 1441864709 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864709
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,547 5277623ms EMailSend              smtp_SendCompleted - 邮箱254663852@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEDZyURKHPFVwwKcBQ--.247S3 1441864782 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864782
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,548 5277624ms EMailSend              smtp_SendCompleted - 邮箱15921858092@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEC5LUdpHPFVZAScBQ--.59S3 1441864809 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864809
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,548 5277624ms EMailSend              smtp_SendCompleted - 邮箱609083345@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEDp3kJ1HPFVHgWcBQ--.111S3 1441864821 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864821
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,549 5277625ms EMailSend              smtp_SendCompleted - 邮箱tushuenghao@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEAJBEGZHPFVyAacBQ--.73S3 1441864857 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864857
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,551 5277627ms EMailSend              smtp_SendCompleted - 邮箱44020959@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEApB0O9HPFVDwmcBQ--.261S3 1441864893 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864893
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,551 5277627ms EMailSend              smtp_SendCompleted - 邮箱315880925@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEDZGEG9HPFVDgmcBQ--.262S3 1441864893 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864893
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,551 5277627ms EMailSend              smtp_SendCompleted - 邮箱1367175983@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: DT:SPM smtp6, RNOowEDJi0HQHPFVNQqcBQ--.260S3 1441864912 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441864912
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:02:02,552 5277628ms EMailSend              smtp_SendCompleted - 邮件发送成功140,失败9,邮箱地址错误8
+INFO  2015-09-10 14:27:38,344 6813421ms EMailSend              btnSend_Click      - 开始发送ENJOY邮件，合计：197 封邮件
+INFO  2015-09-10 14:31:46,720 7061796ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|1069460677QQ
+INFO  2015-09-10 14:31:58,786 7073863ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|252773084@ ww.com
+INFO  2015-09-10 14:33:02,398 7137475ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|569878342.qq.com
+INFO  2015-09-10 14:33:20,938 7156015ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|1097087278@.com
+INFO  2015-09-10 14:34:09,220 7204297ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|QQ870580489.cng
+INFO  2015-09-10 14:35:55,268 7310345ms EMailSend              SendMail           - 邮箱地址错误：ENJOY|qq1483270633@.com
+INFO  2015-09-10 14:36:22,605 7337682ms EMailSend              SendMail           - 邮箱为空！跳过。
+INFO  2015-09-10 14:37:13,647 7388724ms EMailSend              btnSend_Click      - 邮件发送完毕！等待发送结果...
+INFO  2015-09-10 14:37:13,662 7388739ms EMailSend              smtp_SendCompleted - 邮箱852982684@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDp3kLrJPFV7JqcBQ--.68S3 1441866987 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441866987
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,663 7388740ms EMailSend              smtp_SendCompleted - 邮箱1598349576@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEA5UUTuJPFVGJucBQ--.243S3 1441866990 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441866990
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,663 7388740ms EMailSend              smtp_SendCompleted - 邮箱774354625@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEC5f0PxJPFVWJucBQ--.307S3 1441866993 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441866993
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,663 7388740ms EMailSend              smtp_SendCompleted - 邮箱39595438@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDZNUL0JPFVj5ucBQ--.189S3 1441866996 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441866996
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,664 7388741ms EMailSend              smtp_SendCompleted - 邮箱479523595@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDpPUL3JPFVxpucBQ--.147S3 1441866999 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441866999
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,664 7388741ms EMailSend              smtp_SendCompleted - 邮箱1633261609@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDZPUf6JPFV_ZucBQ--.25S3 1441867002 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867002
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,664 7388741ms EMailSend              smtp_SendCompleted - 邮箱495999151@qq.com.cn发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowED5MET9JPFVS5ycBQ--.104S3 1441867005 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867005
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,664 7388741ms EMailSend              smtp_SendCompleted - 邮箱65982401@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEC5CEQAJfFVn5ycBQ--.20S3 1441867008 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867008
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,665 7388742ms EMailSend              smtp_SendCompleted - 邮箱1069460677@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEAp3UEDJfFV0pycBQ--.129S3 1441867011 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867011
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,665 7388742ms EMailSend              smtp_SendCompleted - 邮箱252773084@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEA5AkUGJfFVF52cBQ--.75S3 1441867014 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867014
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,665 7388742ms EMailSend              smtp_SendCompleted - 邮箱569878342@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDpm0EJJfFVTJ2cBQ--.295S3 1441867017 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867017
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,665 7388742ms EMailSend              smtp_SendCompleted - 邮箱1097087278@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEBJZkIMJfFVgJ2cBQ--.117S3 1441867020 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867020
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,666 7388743ms EMailSend              smtp_SendCompleted - 邮箱870580489@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEA5XkISJfFV552cBQ--.91S3 1441867026 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867026
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,666 7388743ms EMailSend              smtp_SendCompleted - 邮箱1483270633@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEDZGEESJfFV6J2cBQ--.27S3 1441867026 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867026
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,666 7388743ms EMailSend              smtp_SendCompleted - 邮箱107545542@qq.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEA5AkUVJfFVJp6cBQ--.84S3 1441867029 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867029
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,666 7388743ms EMailSend              smtp_SendCompleted - 邮箱zhangjie1@yicai.com发送失败,原因:System.Net.Mail.SmtpException: Transaction failed. The server response was: MI:STC 0,smtp6,RNOowEA5D0MYJfFVXp6cBQ--.10S3 1441867032 http://mail.163.com/help/help_spam_16.htm?ip=211.99.27.113&hostid=smtp6&time=1441867032
+   at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.DataStopCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Complete(Exception exception, IAsyncResult result)
+INFO  2015-09-10 14:37:13,667 7388744ms EMailSend              smtp_SendCompleted - 邮件发送成功174,失败16,邮箱地址错误6
+[Footer] 结束日志记录 
