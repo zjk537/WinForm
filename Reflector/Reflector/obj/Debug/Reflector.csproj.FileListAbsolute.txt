@@ -1,8 +1,0 @@
-D:\Application\Location\WinForm\Reflector\Reflector\bin\Debug\Reflector.exe
-D:\Application\Location\WinForm\Reflector\Reflector\bin\Debug\Reflector.pdb
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.csprojResolveAssemblyReference.cache
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.Form1.resources
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.Properties.Resources.resources
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.csproj.GenerateResource.Cache
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.exe
-D:\Application\Location\WinForm\Reflector\Reflector\obj\Debug\Reflector.pdb
