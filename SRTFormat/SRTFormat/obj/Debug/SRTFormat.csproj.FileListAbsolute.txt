@@ -1,0 +1,11 @@
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\bin\Debug\SRTFormat.exe.config
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\bin\Debug\SRTFormat.exe
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\bin\Debug\SRTFormat.pdb
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.csprojResolveAssemblyReference.cache
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.main.resources
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.Properties.Resources.resources
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.csproj.GenerateResource.Cache
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.exe
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\obj\Debug\SRTFormat.pdb
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\bin\Debug\log4net.dll
+D:\Application\Location\WinForm\SRTFormat\SRTFormat\bin\Debug\System.Data.SQLite.DLL

@@ -1,0 +1,8 @@
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\bin\Debug\HtmlParse.exe
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\bin\Debug\HtmlParse.pdb
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.csprojResolveAssemblyReference.cache
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.Form1.resources
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.Properties.Resources.resources
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.csproj.GenerateResource.Cache
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.exe
+D:\Application\Location\WinForm\HtmlParse\HtmlParse\obj\Debug\HtmlParse.pdb

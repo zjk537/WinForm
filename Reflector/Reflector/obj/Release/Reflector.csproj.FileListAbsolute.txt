@@ -1,0 +1,7 @@
+D:\Application\Location\WinForm\Reflector\Reflector\bin\Release\Reflector.exe
+D:\Application\Location\WinForm\Reflector\Reflector\bin\Release\Reflector.pdb
+D:\Application\Location\WinForm\Reflector\Reflector\obj\Release\Reflector.Form1.resources
+D:\Application\Location\WinForm\Reflector\Reflector\obj\Release\Reflector.Properties.Resources.resources
+D:\Application\Location\WinForm\Reflector\Reflector\obj\Release\Reflector.csproj.GenerateResource.Cache
+D:\Application\Location\WinForm\Reflector\Reflector\obj\Release\Reflector.exe
+D:\Application\Location\WinForm\Reflector\Reflector\obj\Release\Reflector.pdb
